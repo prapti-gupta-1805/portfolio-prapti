@@ -2,7 +2,7 @@ import { Briefcase, Calendar } from 'lucide-react';
 
 const experiences = [
   {
-    role: 'AI Intern: Team Lead, XO Rig',
+    role: 'AI Intern: Team Lead, Prodigal AI (XO Rig)',
     company: 'Prodigal AI',
     period: 'January \'26 – April \'26',
     type: 'Internship',
