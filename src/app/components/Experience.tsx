@@ -6,7 +6,7 @@ const experiences = [
     company: 'Prodigal AI',
     period: 'January \'26 – April \'26',
     type: 'Internship',
-    description: 'Led AI initiatives and coordinated team operations for XO Rig project.',
+    description: '',
   },
   {
     role: 'Operations Co-ordinator',
