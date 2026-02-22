@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'TerraVision: Environmental Intelligence Platform',
     role: 'Backend Dev',
-    achievement: 'Top 5 in InnoventionUT \'26',
+    achievement: 'Top 5 in InnovateNSUT \'26',
     description: 'Location-based environmental analysis platform with real-time data integration and spatial filtering.',
     highlights: [
       'Implemented a FastAPI backend powering location-based environmental analysis',
