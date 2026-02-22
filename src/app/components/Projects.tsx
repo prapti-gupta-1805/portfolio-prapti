@@ -48,7 +48,7 @@ export function Projects() {
           Featured Projects
         </h2>
         <p className="text-gray-400 text-center mb-12 max-w-2xl mx-auto">
-          Tech p rojects showcasing full-stack development and AI integration
+          Tech projects showcasing full-stack development and AI integration
         </p>
         
         <div className="space-y-6">
